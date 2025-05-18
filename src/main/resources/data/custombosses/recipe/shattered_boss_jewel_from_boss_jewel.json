@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": [
+		{
+			"item": "custombosses:boss_jewel"
+		}
+	],
+	"result": {
+		"count": 9,
+		"id": "custombosses:shattered_boss_jewel"
+	}
+}

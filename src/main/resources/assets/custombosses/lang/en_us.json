@@ -2,5 +2,8 @@
   "item.custombosses.boss_jewel": "Boss Jewel",
   "item.custombosses.shattered_boss_jewel": "Shattered Boss Jewel",
 
-  "block.custombosses.dune_block": "Dune Block"
+  "block.custombosses.dune_block": "Dune Block",
+
+  "itemgroup.custombosses.boss_items": "Boss Items",
+  "itemgroup.custombosses.boss_blocks": "Boss Blocks"
 }

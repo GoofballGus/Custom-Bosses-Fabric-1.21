@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"J": {
+			"item": "custombosses:shattered_boss_jewel"
+		}
+	},
+	"pattern": [
+		"JJJ",
+		"JJJ",
+		"JJJ"
+	],
+	"result": {
+		"count": 1,
+		"id": "custombosses:boss_jewel"
+	}
+}

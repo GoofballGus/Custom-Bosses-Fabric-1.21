@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"S": {
+			"item": "minecraft:sandstone"
+		},
+		"R": {
+			"item": "minecraft:red_sandstone"
+		}
+	},
+	"pattern": [
+		"SRS",
+		"RSR",
+		"SRS"
+	],
+	"result": {
+		"count": 1,
+		"id": "custombosses:dune_block"
+	}
+}
