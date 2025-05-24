@@ -23,6 +23,8 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.BOSS_JEWEL);
                         entries.add(ModItems.SHATTERED_BOSS_JEWEL);
+                        
+                        entries.add(ModItems.SWITCHER);
                     }).build());
     
     public static final ItemGroup BOSS_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,
